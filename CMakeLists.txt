@@ -11,5 +11,5 @@ target_link_libraries(longrange
     android
     dl
     pthread
-    ${CMAKE_SOURCE_DIR}/Dobby/build/libdobby.a
+    ${CMAKE_SOURCE_DIR}/Dobby/libdobby.a
 )
